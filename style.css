@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ }
+ #wrapper{
+    /* border: 1px solid red; */
+    width: 1075px;
+    padding-bottom: 0px;
+    /* background-color: #4B3840; */
+    margin: 0 auto;
+    background: radial-gradient(circle, #6f5964, #6f5964, #36242a);
+ }
+ 
+ #header{
+    /* border: 1px solid purple; */
+    height: 50px;
+    width: 100%;
+    background-color: silver;
+    margin-bottom: 30px;
+  
+ }
+ 
+ #profile{
+    height: 300px;
+    width: 450px;
+    border: 5px solid silver;
+    margin: 15px;
+  
+ }
+ 
+ #about{
+    /* border: 1px solid orange; */
+    height: 300px;
+    width: 525px;
+    margin: 15px;
+ }
+ .grad2 {
+  background: linear-gradient(90deg, #ffffff, #dbcdda);
+ }
+ 
+ .top{
+    /* border: 1px solid blue; */
+    display: inline-block;
+    vertical-align: top;}
+   
+ .info{
+    /* border: 1px solid pink; */
+    height: 530px;
+    width: 300px;
+    background: linear-gradient(white, silver);
+    margin: 25px;
+    display: inline-block;
+ }
+ 
+ .tpbout{
+    /* border: 1px solid mediumseagreen; */
+    height: 40px;
+    width: 400px;
+    padding-right: 125px;
+    /* background-color: #A5A4AB; */
+
+ }
+ .proj_desc {
+  /* border: 1px solid blue;  */
+  width: 100%;
+  margin: 0px;
+  padding: 0px.
+ }
+ .grad {
+    background: linear-gradient(#b5b5b8, #898795, #b5b5b8);
+
+ }
+ .tpinfo{
+    /* border: 1px solid green; */
+    height: 40px;
+    width: 300px;
+    /* background-color: #A5A4AB; */
+ }
+ 
+ .imginfo{
+    width: 300px;
+ }
+ 
+ h1{
+   font-size: 15pt;
+   color: white;
+   vertical-align: middle;
+   margin-left: 10px;
+   padding-top: 5px;
+ }
+ p{
+   text-align: justify;
+   margin: 3px;
+ }
+ 
+ .images{
+   width: 45px;
+   display: inline-block;
+   margin: 10px 0px 0px 10px;
+ }
+ 
+ .submit {
+   /* border: 1px solid blue; */
+   background-color: darkgreen;
+   border-radius: 25px;
+   border: 1px solid black;
+   width: 150px;
+   text-align: center;
+   margin-top: 10px;
+   margin-left: 75px;
+ }
+ 
+ h5 {
+   color: white;
+   font-size: 10pt;
+ }
+ 
+ .hellotxt{
+   text-align: justify;
+   margin: 20px;
+ }
+ 
+ a {
+   margin-left: 20px;
+ }
+ .social {
+   list-style: none;
+   text-align: center;
+   width: 100%;
+   display: inline-block;
+ }
+ #github {
+  width: 10%;
+  display: inline-block;
+  margin: 0px;
+ }
+ #linkedin {
+   width: 10%;
+   display: inline-block;
+   margin: 0px;
+ }
+ #twitter {
+   width: 10%;
+   display: inline-block;
+   margin: 0px;
+ }
+ #codepen {
+   width: 1s0%;
+   display: inline-block;
+   margin: 0px;
+ }
+ h2 {
+  font-family: comic sans ms;
+  position: relative;
+  top: 50%; 
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  margin-left: 15px;
+  display: inline-block;
+ }
+ h3{
+   text-align: right;
+   font-size: 14pt;
+   margin-left: 600px;
+   display: inline-block;
+ }
+ 
+ h6{
+   text-align: center;
+   font-size: 12pt;
+ }
+ #footer {
+   /* border: 1px solid blue; */
+   width: 100%;
+   display: inline-block;
+   background-color: silver;
+ }
